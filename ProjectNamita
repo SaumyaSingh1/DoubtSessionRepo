@@ -1,0 +1,8 @@
+#include<iostream.h>
+using namespace std;
+
+void main()
+{
+	cout<< "3rd class Github and Open source";
+	cout<< "Taking up doubt session";	
+}
